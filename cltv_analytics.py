@@ -90,3 +90,4 @@ for seconds in range(300):
         st.markdown("### :blue[Detailed Data View] 🔍")
         st.dataframe(data, use_container_width=True, hide_index=True)
         time.sleep(0.5)
+        
